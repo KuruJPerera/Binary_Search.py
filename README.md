@@ -50,7 +50,5 @@ cd binary-search-python
 Running the Program:
 
 Once you're in the project folder, run the Python script with:
-
 python binary_search.py
-
 The script will output the index of the target number in the list, or -1 if it’s not found.
