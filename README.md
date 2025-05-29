@@ -47,8 +47,16 @@ To download and run the code:
 git clone https://github.com/your-username/binary-search-python.git
 cd binary-search-python
 
-Running the Program:
+Getting Started: Requirements:
 
-Once you're in the project folder, run the Python script with:
-python binary_search.py
-The script will output the index of the target number in the list, or -1 if it’s not found.
+To use this project, you’ll need:
+
+Python 3 installed on your computer
+
+. A way to run Python scripts (any basic code editor or IDE will work)
+
+. Familiarity with how to open and run Python files
+
+. If you don’t have Python installed, you can download it from the official Python website:
+  https://www.python.org/downloads/
+
