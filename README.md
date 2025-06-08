@@ -65,12 +65,6 @@ No external libraries are required.
 
 ---
 
-## Notes
-
-- The input list **must be sorted** for binary search to work correctly.
-- If the target is not in the list, the function returns `-1`.
-
----
 
 ## Use Cases
 
